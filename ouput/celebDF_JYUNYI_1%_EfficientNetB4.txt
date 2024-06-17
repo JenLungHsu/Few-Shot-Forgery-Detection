@@ -1,0 +1,502 @@
+Epoch 1/100
+----------
+epoch: 1 , train loss: 67.3742 , train acc: 0.8036 , train auc: 0.8800, train f1: 0.8017, train re: 0.8036, train pr: 0.8157
+epoch: 1 , val loss: 52.8301 , val acc: 0.7581 , val auc: 0.8461 , val f1: 0.7568, val re: 0.7581, val pr: 0.7634
+
+Epoch 2/100
+----------
+epoch: 2 , train loss: 3.5993 , train acc: 0.9782 , train auc: 0.9985, train f1: 0.9782, train re: 0.9782, train pr: 0.9782
+epoch: 2 , val loss: 51.9853 , val acc: 0.7543 , val auc: 0.8447 , val f1: 0.7529, val re: 0.7543, val pr: 0.7601
+
+Epoch 3/100
+----------
+epoch: 3 , train loss: 0.9934 , train acc: 0.9962 , train auc: 1.0000, train f1: 0.9962, train re: 0.9962, train pr: 0.9962
+epoch: 3 , val loss: 53.1780 , val acc: 0.7514 , val auc: 0.8431 , val f1: 0.7514, val re: 0.7514, val pr: 0.7515
+
+Epoch 4/100
+----------
+epoch: 4 , train loss: 0.8782 , train acc: 0.9943 , train auc: 1.0000, train f1: 0.9943, train re: 0.9943, train pr: 0.9943
+epoch: 4 , val loss: 57.1792 , val acc: 0.7524 , val auc: 0.8413 , val f1: 0.7524, val re: 0.7524, val pr: 0.7524
+
+Epoch 5/100
+----------
+epoch: 5 , train loss: 1.1289 , train acc: 0.9943 , train auc: 0.9998, train f1: 0.9943, train re: 0.9943, train pr: 0.9943
+epoch: 5 , val loss: 56.5008 , val acc: 0.7552 , val auc: 0.8398 , val f1: 0.7552, val re: 0.7552, val pr: 0.7553
+
+Epoch 6/100
+----------
+epoch: 6 , train loss: 0.4136 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 6 , val loss: 59.1653 , val acc: 0.7524 , val auc: 0.8380 , val f1: 0.7521, val re: 0.7524, val pr: 0.7535
+
+Epoch 7/100
+----------
+epoch: 7 , train loss: 0.3661 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 7 , val loss: 56.7900 , val acc: 0.7524 , val auc: 0.8414 , val f1: 0.7522, val re: 0.7524, val pr: 0.7530
+
+Epoch 8/100
+----------
+epoch: 8 , train loss: 0.2730 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 8 , val loss: 60.4664 , val acc: 0.7609 , val auc: 0.8406 , val f1: 0.7609, val re: 0.7609, val pr: 0.7610
+
+Epoch 9/100
+----------
+epoch: 9 , train loss: 0.4024 , train acc: 0.9972 , train auc: 1.0000, train f1: 0.9972, train re: 0.9972, train pr: 0.9972
+epoch: 9 , val loss: 58.9094 , val acc: 0.7562 , val auc: 0.8409 , val f1: 0.7562, val re: 0.7562, val pr: 0.7562
+
+Epoch 10/100
+----------
+epoch: 10 , train loss: 0.2235 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 10 , val loss: 61.7723 , val acc: 0.7543 , val auc: 0.8417 , val f1: 0.7543, val re: 0.7543, val pr: 0.7543
+
+Epoch 11/100
+----------
+epoch: 11 , train loss: 0.1229 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 11 , val loss: 63.0951 , val acc: 0.7543 , val auc: 0.8422 , val f1: 0.7541, val re: 0.7543, val pr: 0.7552
+
+Epoch 12/100
+----------
+epoch: 12 , train loss: 0.1968 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 12 , val loss: 60.7670 , val acc: 0.7533 , val auc: 0.8426 , val f1: 0.7531, val re: 0.7533, val pr: 0.7540
+
+Epoch 13/100
+----------
+epoch: 13 , train loss: 0.1442 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 13 , val loss: 66.5979 , val acc: 0.7571 , val auc: 0.8365 , val f1: 0.7569, val re: 0.7571, val pr: 0.7582
+
+Epoch 14/100
+----------
+epoch: 14 , train loss: 0.1040 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 14 , val loss: 62.6566 , val acc: 0.7590 , val auc: 0.8388 , val f1: 0.7590, val re: 0.7590, val pr: 0.7590
+
+Epoch 15/100
+----------
+epoch: 15 , train loss: 0.2448 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 15 , val loss: 62.3469 , val acc: 0.7552 , val auc: 0.8419 , val f1: 0.7552, val re: 0.7552, val pr: 0.7553
+
+Epoch 16/100
+----------
+epoch: 16 , train loss: 0.2822 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 16 , val loss: 63.7621 , val acc: 0.7609 , val auc: 0.8407 , val f1: 0.7609, val re: 0.7609, val pr: 0.7609
+
+Epoch 17/100
+----------
+epoch: 17 , train loss: 0.1900 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 17 , val loss: 61.1650 , val acc: 0.7609 , val auc: 0.8414 , val f1: 0.7607, val re: 0.7609, val pr: 0.7618
+
+Epoch 18/100
+----------
+epoch: 18 , train loss: 0.0740 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 18 , val loss: 59.6347 , val acc: 0.7600 , val auc: 0.8401 , val f1: 0.7598, val re: 0.7600, val pr: 0.7606
+
+Epoch 19/100
+----------
+epoch: 19 , train loss: 0.4527 , train acc: 0.9972 , train auc: 1.0000, train f1: 0.9972, train re: 0.9972, train pr: 0.9972
+epoch: 19 , val loss: 63.0093 , val acc: 0.7590 , val auc: 0.8446 , val f1: 0.7590, val re: 0.7590, val pr: 0.7593
+
+Epoch 20/100
+----------
+epoch: 20 , train loss: 0.1824 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 20 , val loss: 62.9930 , val acc: 0.7676 , val auc: 0.8495 , val f1: 0.7675, val re: 0.7676, val pr: 0.7677
+
+Epoch 21/100
+----------
+epoch: 21 , train loss: 0.2804 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 21 , val loss: 64.4074 , val acc: 0.7666 , val auc: 0.8448 , val f1: 0.7665, val re: 0.7666, val pr: 0.7671
+
+Epoch 22/100
+----------
+epoch: 22 , train loss: 0.0644 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 22 , val loss: 63.1197 , val acc: 0.7619 , val auc: 0.8448 , val f1: 0.7619, val re: 0.7619, val pr: 0.7619
+
+Epoch 23/100
+----------
+epoch: 23 , train loss: 0.0845 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 23 , val loss: 66.1924 , val acc: 0.7619 , val auc: 0.8450 , val f1: 0.7614, val re: 0.7619, val pr: 0.7638
+
+Epoch 24/100
+----------
+epoch: 24 , train loss: 0.0911 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 24 , val loss: 61.9967 , val acc: 0.7638 , val auc: 0.8476 , val f1: 0.7637, val re: 0.7638, val pr: 0.7638
+
+Epoch 25/100
+----------
+epoch: 25 , train loss: 0.1277 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 25 , val loss: 62.1396 , val acc: 0.7619 , val auc: 0.8474 , val f1: 0.7619, val re: 0.7619, val pr: 0.7619
+
+Epoch 26/100
+----------
+epoch: 26 , train loss: 0.0830 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 26 , val loss: 61.4133 , val acc: 0.7685 , val auc: 0.8478 , val f1: 0.7685, val re: 0.7685, val pr: 0.7687
+
+Epoch 27/100
+----------
+epoch: 27 , train loss: 0.1020 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 27 , val loss: 63.0113 , val acc: 0.7600 , val auc: 0.8465 , val f1: 0.7598, val re: 0.7600, val pr: 0.7605
+
+Epoch 28/100
+----------
+epoch: 28 , train loss: 0.0863 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 28 , val loss: 63.2014 , val acc: 0.7571 , val auc: 0.8458 , val f1: 0.7571, val re: 0.7571, val pr: 0.7573
+
+Epoch 29/100
+----------
+epoch: 29 , train loss: 0.0891 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 29 , val loss: 62.3552 , val acc: 0.7666 , val auc: 0.8469 , val f1: 0.7664, val re: 0.7666, val pr: 0.7677
+
+Epoch 30/100
+----------
+epoch: 30 , train loss: 0.1292 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 30 , val loss: 60.2744 , val acc: 0.7676 , val auc: 0.8504 , val f1: 0.7675, val re: 0.7676, val pr: 0.7677
+
+Epoch 31/100
+----------
+epoch: 31 , train loss: 0.1271 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 31 , val loss: 63.3217 , val acc: 0.7571 , val auc: 0.8478 , val f1: 0.7569, val re: 0.7571, val pr: 0.7580
+
+Epoch 32/100
+----------
+epoch: 32 , train loss: 0.1410 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 32 , val loss: 63.9768 , val acc: 0.7657 , val auc: 0.8444 , val f1: 0.7656, val re: 0.7657, val pr: 0.7658
+
+Epoch 33/100
+----------
+epoch: 33 , train loss: 0.2619 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 33 , val loss: 62.7845 , val acc: 0.7609 , val auc: 0.8441 , val f1: 0.7609, val re: 0.7609, val pr: 0.7610
+
+Epoch 34/100
+----------
+epoch: 34 , train loss: 0.1981 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 34 , val loss: 61.9778 , val acc: 0.7657 , val auc: 0.8436 , val f1: 0.7655, val re: 0.7657, val pr: 0.7664
+
+Epoch 35/100
+----------
+epoch: 35 , train loss: 0.1004 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 35 , val loss: 61.5859 , val acc: 0.7657 , val auc: 0.8466 , val f1: 0.7655, val re: 0.7657, val pr: 0.7662
+
+Epoch 36/100
+----------
+epoch: 36 , train loss: 0.1095 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 36 , val loss: 64.2612 , val acc: 0.7552 , val auc: 0.8444 , val f1: 0.7552, val re: 0.7552, val pr: 0.7552
+
+Epoch 37/100
+----------
+epoch: 37 , train loss: 0.0527 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 37 , val loss: 65.6063 , val acc: 0.7600 , val auc: 0.8444 , val f1: 0.7598, val re: 0.7600, val pr: 0.7606
+
+Epoch 38/100
+----------
+epoch: 38 , train loss: 0.2741 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 38 , val loss: 61.3866 , val acc: 0.7562 , val auc: 0.8457 , val f1: 0.7561, val re: 0.7562, val pr: 0.7563
+
+Epoch 39/100
+----------
+epoch: 39 , train loss: 0.0798 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 39 , val loss: 62.8869 , val acc: 0.7638 , val auc: 0.8482 , val f1: 0.7638, val re: 0.7638, val pr: 0.7638
+
+Epoch 40/100
+----------
+epoch: 40 , train loss: 0.1085 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 40 , val loss: 61.7107 , val acc: 0.7638 , val auc: 0.8503 , val f1: 0.7638, val re: 0.7638, val pr: 0.7638
+
+Epoch 41/100
+----------
+epoch: 41 , train loss: 0.1342 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 41 , val loss: 61.1836 , val acc: 0.7628 , val auc: 0.8474 , val f1: 0.7626, val re: 0.7628, val pr: 0.7637
+
+Epoch 42/100
+----------
+epoch: 42 , train loss: 0.0666 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 42 , val loss: 63.1476 , val acc: 0.7609 , val auc: 0.8472 , val f1: 0.7607, val re: 0.7609, val pr: 0.7619
+
+Epoch 43/100
+----------
+epoch: 43 , train loss: 0.0814 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 43 , val loss: 62.3711 , val acc: 0.7628 , val auc: 0.8472 , val f1: 0.7628, val re: 0.7628, val pr: 0.7628
+
+Epoch 44/100
+----------
+epoch: 44 , train loss: 0.1990 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 44 , val loss: 66.0568 , val acc: 0.7533 , val auc: 0.8464 , val f1: 0.7524, val re: 0.7533, val pr: 0.7571
+
+Epoch 45/100
+----------
+epoch: 45 , train loss: 0.0656 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 45 , val loss: 62.6499 , val acc: 0.7628 , val auc: 0.8484 , val f1: 0.7628, val re: 0.7628, val pr: 0.7628
+
+Epoch 46/100
+----------
+epoch: 46 , train loss: 0.0563 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 46 , val loss: 64.2258 , val acc: 0.7647 , val auc: 0.8465 , val f1: 0.7647, val re: 0.7647, val pr: 0.7648
+
+Epoch 47/100
+----------
+epoch: 47 , train loss: 0.1079 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 47 , val loss: 63.0430 , val acc: 0.7590 , val auc: 0.8456 , val f1: 0.7589, val re: 0.7590, val pr: 0.7595
+
+Epoch 48/100
+----------
+epoch: 48 , train loss: 0.0938 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 48 , val loss: 61.8960 , val acc: 0.7666 , val auc: 0.8488 , val f1: 0.7666, val re: 0.7666, val pr: 0.7667
+
+Epoch 49/100
+----------
+epoch: 49 , train loss: 0.0605 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 49 , val loss: 61.7353 , val acc: 0.7647 , val auc: 0.8472 , val f1: 0.7646, val re: 0.7647, val pr: 0.7651
+
+Epoch 50/100
+----------
+epoch: 50 , train loss: 0.0632 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 50 , val loss: 60.9930 , val acc: 0.7666 , val auc: 0.8488 , val f1: 0.7666, val re: 0.7666, val pr: 0.7666
+
+Epoch 51/100
+----------
+epoch: 51 , train loss: 0.1477 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 51 , val loss: 59.3014 , val acc: 0.7638 , val auc: 0.8464 , val f1: 0.7632, val re: 0.7638, val pr: 0.7661
+
+Epoch 52/100
+----------
+epoch: 52 , train loss: 0.0395 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 52 , val loss: 60.6249 , val acc: 0.7657 , val auc: 0.8480 , val f1: 0.7654, val re: 0.7657, val pr: 0.7670
+
+Epoch 53/100
+----------
+epoch: 53 , train loss: 0.0498 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 53 , val loss: 62.4878 , val acc: 0.7628 , val auc: 0.8462 , val f1: 0.7628, val re: 0.7628, val pr: 0.7628
+
+Epoch 54/100
+----------
+epoch: 54 , train loss: 0.1870 , train acc: 0.9981 , train auc: 1.0000, train f1: 0.9981, train re: 0.9981, train pr: 0.9981
+epoch: 54 , val loss: 62.9830 , val acc: 0.7704 , val auc: 0.8472 , val f1: 0.7703, val re: 0.7704, val pr: 0.7709
+
+Epoch 55/100
+----------
+epoch: 55 , train loss: 0.0471 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 55 , val loss: 61.9235 , val acc: 0.7619 , val auc: 0.8483 , val f1: 0.7618, val re: 0.7619, val pr: 0.7620
+
+Epoch 56/100
+----------
+epoch: 56 , train loss: 0.0618 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 56 , val loss: 62.9520 , val acc: 0.7571 , val auc: 0.8469 , val f1: 0.7571, val re: 0.7571, val pr: 0.7573
+
+Epoch 57/100
+----------
+epoch: 57 , train loss: 0.0428 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 57 , val loss: 65.9512 , val acc: 0.7657 , val auc: 0.8459 , val f1: 0.7652, val re: 0.7657, val pr: 0.7676
+
+Epoch 58/100
+----------
+epoch: 58 , train loss: 0.0556 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 58 , val loss: 61.4451 , val acc: 0.7619 , val auc: 0.8477 , val f1: 0.7618, val re: 0.7619, val pr: 0.7623
+
+Epoch 59/100
+----------
+epoch: 59 , train loss: 0.1947 , train acc: 0.9981 , train auc: 1.0000, train f1: 0.9981, train re: 0.9981, train pr: 0.9981
+epoch: 59 , val loss: 61.8102 , val acc: 0.7694 , val auc: 0.8477 , val f1: 0.7691, val re: 0.7694, val pr: 0.7709
+
+Epoch 60/100
+----------
+epoch: 60 , train loss: 0.0571 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 60 , val loss: 60.3263 , val acc: 0.7657 , val auc: 0.8485 , val f1: 0.7653, val re: 0.7657, val pr: 0.7673
+
+Epoch 61/100
+----------
+epoch: 61 , train loss: 0.0505 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 61 , val loss: 63.8482 , val acc: 0.7657 , val auc: 0.8470 , val f1: 0.7656, val re: 0.7657, val pr: 0.7657
+
+Epoch 62/100
+----------
+epoch: 62 , train loss: 0.1755 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 62 , val loss: 64.1691 , val acc: 0.7628 , val auc: 0.8435 , val f1: 0.7628, val re: 0.7628, val pr: 0.7628
+
+Epoch 63/100
+----------
+epoch: 63 , train loss: 0.1391 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 63 , val loss: 61.6431 , val acc: 0.7628 , val auc: 0.8461 , val f1: 0.7625, val re: 0.7628, val pr: 0.7642
+
+Epoch 64/100
+----------
+epoch: 64 , train loss: 0.0631 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 64 , val loss: 62.6601 , val acc: 0.7657 , val auc: 0.8470 , val f1: 0.7656, val re: 0.7657, val pr: 0.7657
+
+Epoch 65/100
+----------
+epoch: 65 , train loss: 0.1014 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 65 , val loss: 61.4738 , val acc: 0.7694 , val auc: 0.8473 , val f1: 0.7692, val re: 0.7694, val pr: 0.7708
+
+Epoch 66/100
+----------
+epoch: 66 , train loss: 0.0749 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 66 , val loss: 63.1037 , val acc: 0.7619 , val auc: 0.8480 , val f1: 0.7617, val re: 0.7619, val pr: 0.7624
+
+Epoch 67/100
+----------
+epoch: 67 , train loss: 0.0753 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 67 , val loss: 68.9949 , val acc: 0.7552 , val auc: 0.8453 , val f1: 0.7543, val re: 0.7552, val pr: 0.7593
+
+Epoch 68/100
+----------
+epoch: 68 , train loss: 0.1809 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 68 , val loss: 63.3321 , val acc: 0.7581 , val auc: 0.8478 , val f1: 0.7581, val re: 0.7581, val pr: 0.7581
+
+Epoch 69/100
+----------
+epoch: 69 , train loss: 0.2028 , train acc: 0.9981 , train auc: 1.0000, train f1: 0.9981, train re: 0.9981, train pr: 0.9981
+epoch: 69 , val loss: 63.0395 , val acc: 0.7619 , val auc: 0.8454 , val f1: 0.7617, val re: 0.7619, val pr: 0.7625
+
+Epoch 70/100
+----------
+epoch: 70 , train loss: 0.0522 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 70 , val loss: 61.3333 , val acc: 0.7657 , val auc: 0.8477 , val f1: 0.7655, val re: 0.7657, val pr: 0.7664
+
+Epoch 71/100
+----------
+epoch: 71 , train loss: 0.0834 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 71 , val loss: 62.9178 , val acc: 0.7676 , val auc: 0.8463 , val f1: 0.7675, val re: 0.7676, val pr: 0.7677
+
+Epoch 72/100
+----------
+epoch: 72 , train loss: 0.1116 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 72 , val loss: 63.0923 , val acc: 0.7590 , val auc: 0.8428 , val f1: 0.7590, val re: 0.7590, val pr: 0.7590
+
+Epoch 73/100
+----------
+epoch: 73 , train loss: 0.0596 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 73 , val loss: 61.5516 , val acc: 0.7638 , val auc: 0.8473 , val f1: 0.7636, val re: 0.7638, val pr: 0.7644
+
+Epoch 74/100
+----------
+epoch: 74 , train loss: 0.1014 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 74 , val loss: 64.8591 , val acc: 0.7552 , val auc: 0.8451 , val f1: 0.7551, val re: 0.7552, val pr: 0.7556
+
+Epoch 75/100
+----------
+epoch: 75 , train loss: 0.0884 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 75 , val loss: 62.3831 , val acc: 0.7619 , val auc: 0.8434 , val f1: 0.7618, val re: 0.7619, val pr: 0.7619
+
+Epoch 76/100
+----------
+epoch: 76 , train loss: 0.0809 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 76 , val loss: 61.3151 , val acc: 0.7657 , val auc: 0.8502 , val f1: 0.7656, val re: 0.7657, val pr: 0.7657
+
+Epoch 77/100
+----------
+epoch: 77 , train loss: 0.0793 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 77 , val loss: 63.2299 , val acc: 0.7619 , val auc: 0.8458 , val f1: 0.7618, val re: 0.7619, val pr: 0.7620
+
+Epoch 78/100
+----------
+epoch: 78 , train loss: 0.0765 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 78 , val loss: 63.0198 , val acc: 0.7600 , val auc: 0.8463 , val f1: 0.7598, val re: 0.7600, val pr: 0.7606
+
+Epoch 79/100
+----------
+epoch: 79 , train loss: 0.0419 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 79 , val loss: 64.0598 , val acc: 0.7638 , val auc: 0.8456 , val f1: 0.7637, val re: 0.7638, val pr: 0.7638
+
+Epoch 80/100
+----------
+epoch: 80 , train loss: 0.0629 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 80 , val loss: 62.4222 , val acc: 0.7609 , val auc: 0.8453 , val f1: 0.7609, val re: 0.7609, val pr: 0.7612
+
+Epoch 81/100
+----------
+epoch: 81 , train loss: 0.0544 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 81 , val loss: 63.4537 , val acc: 0.7647 , val auc: 0.8474 , val f1: 0.7647, val re: 0.7647, val pr: 0.7647
+
+Epoch 82/100
+----------
+epoch: 82 , train loss: 0.0729 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 82 , val loss: 62.4895 , val acc: 0.7590 , val auc: 0.8475 , val f1: 0.7590, val re: 0.7590, val pr: 0.7590
+
+Epoch 83/100
+----------
+epoch: 83 , train loss: 0.0697 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 83 , val loss: 63.2324 , val acc: 0.7590 , val auc: 0.8440 , val f1: 0.7590, val re: 0.7590, val pr: 0.7591
+
+Epoch 84/100
+----------
+epoch: 84 , train loss: 0.0720 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 84 , val loss: 63.9038 , val acc: 0.7609 , val auc: 0.8475 , val f1: 0.7609, val re: 0.7609, val pr: 0.7609
+
+Epoch 85/100
+----------
+epoch: 85 , train loss: 0.0642 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 85 , val loss: 61.3714 , val acc: 0.7694 , val auc: 0.8485 , val f1: 0.7694, val re: 0.7694, val pr: 0.7696
+
+Epoch 86/100
+----------
+epoch: 86 , train loss: 0.0467 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 86 , val loss: 64.2316 , val acc: 0.7657 , val auc: 0.8450 , val f1: 0.7655, val re: 0.7657, val pr: 0.7663
+
+Epoch 87/100
+----------
+epoch: 87 , train loss: 0.0458 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 87 , val loss: 62.9370 , val acc: 0.7638 , val auc: 0.8448 , val f1: 0.7634, val re: 0.7638, val pr: 0.7652
+
+Epoch 88/100
+----------
+epoch: 88 , train loss: 0.0939 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 88 , val loss: 62.6241 , val acc: 0.7619 , val auc: 0.8462 , val f1: 0.7619, val re: 0.7619, val pr: 0.7619
+
+Epoch 89/100
+----------
+epoch: 89 , train loss: 0.0895 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 89 , val loss: 61.7298 , val acc: 0.7619 , val auc: 0.8491 , val f1: 0.7618, val re: 0.7619, val pr: 0.7619
+
+Epoch 90/100
+----------
+epoch: 90 , train loss: 0.1157 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 90 , val loss: 62.6351 , val acc: 0.7657 , val auc: 0.8483 , val f1: 0.7656, val re: 0.7657, val pr: 0.7658
+
+Epoch 91/100
+----------
+epoch: 91 , train loss: 0.1969 , train acc: 0.9981 , train auc: 1.0000, train f1: 0.9981, train re: 0.9981, train pr: 0.9981
+epoch: 91 , val loss: 65.3488 , val acc: 0.7609 , val auc: 0.8429 , val f1: 0.7608, val re: 0.7609, val pr: 0.7613
+
+Epoch 92/100
+----------
+epoch: 92 , train loss: 0.0469 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 92 , val loss: 61.5701 , val acc: 0.7619 , val auc: 0.8479 , val f1: 0.7618, val re: 0.7619, val pr: 0.7622
+
+Epoch 93/100
+----------
+epoch: 93 , train loss: 0.0733 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 93 , val loss: 61.3237 , val acc: 0.7609 , val auc: 0.8483 , val f1: 0.7609, val re: 0.7609, val pr: 0.7610
+
+Epoch 94/100
+----------
+epoch: 94 , train loss: 0.0911 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 94 , val loss: 62.4850 , val acc: 0.7609 , val auc: 0.8482 , val f1: 0.7609, val re: 0.7609, val pr: 0.7609
+
+Epoch 95/100
+----------
+epoch: 95 , train loss: 0.1426 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 95 , val loss: 62.4314 , val acc: 0.7647 , val auc: 0.8471 , val f1: 0.7646, val re: 0.7647, val pr: 0.7650
+
+Epoch 96/100
+----------
+epoch: 96 , train loss: 0.0597 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 96 , val loss: 62.0305 , val acc: 0.7581 , val auc: 0.8466 , val f1: 0.7581, val re: 0.7581, val pr: 0.7581
+
+Epoch 97/100
+----------
+epoch: 97 , train loss: 0.0492 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 97 , val loss: 60.1812 , val acc: 0.7619 , val auc: 0.8470 , val f1: 0.7619, val re: 0.7619, val pr: 0.7619
+
+Epoch 98/100
+----------
+epoch: 98 , train loss: 0.1210 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 98 , val loss: 64.1438 , val acc: 0.7590 , val auc: 0.8473 , val f1: 0.7587, val re: 0.7590, val pr: 0.7602
+
+Epoch 99/100
+----------
+epoch: 99 , train loss: 0.0872 , train acc: 1.0000 , train auc: 1.0000, train f1: 1.0000, train re: 1.0000, train pr: 1.0000
+epoch: 99 , val loss: 64.2021 , val acc: 0.7600 , val auc: 0.8416 , val f1: 0.7599, val re: 0.7600, val pr: 0.7600
+
+Epoch 100/100
+----------
+epoch: 100 , train loss: 0.1151 , train acc: 0.9991 , train auc: 1.0000, train f1: 0.9991, train re: 0.9991, train pr: 0.9991
+epoch: 100 , val loss: 62.9123 , val acc: 0.7694 , val auc: 0.8449 , val f1: 0.7692, val re: 0.7694, val pr: 0.7708
+
+
+Best val Acc: 0.7704
