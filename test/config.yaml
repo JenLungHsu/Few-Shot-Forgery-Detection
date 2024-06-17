@@ -1,0 +1,104 @@
+# distributed training
+nodes: 1
+gpus: 1  # I recommend always assigning 1 GPU to 1 node
+nr: 0 # machine nr. in node (0 -- nodes - 1)
+# dataparallel: 0 # Use DataParallel instead of DistributedDataParallel
+dataparallel: 1
+workers: 4
+mydata: False
+dataset_dir: "/hdd1/DeepFakes_may/FF++/c23/"
+train_file: "/hdd1/DeepFakes_may/FF++/train.txt"
+# dataset_dir: ""
+# train_file: "/hdd1/DeepFakes_may/celeb-df/train.txt"
+# train_file: "../FaceForensicsImages/ff_train_raw.txt"
+
+# dataset_dir_test: "/hdd1/DeepFakes/FF++/c40/test/"
+# test_file: "../FaceForensicsImages/ff_test_raw.txt"
+dataset_dir_test: "/hdd1/DeepFakes_may/FF++/c23/"
+test_file: "/hdd1/DeepFakes_may/FF++/test.txt"
+# dataset_dir_test: ""
+# test_file: "/hdd1/DeepFakes_may/celeb-df/val.txt"
+
+# # train options
+seed: 42 # sacred handles automatic seeding when passed in the config
+# backbone: 'cspdarknet53'  # Can be resnet50, resnet101, cspdarknet53, efficientnet (b4)
+# batch_size: 1 
+image_size: 256
+crop_size: 256
+marginal: 3
+# # random_mask: 0.2
+# heads: 16  # number of multihead, 0 means using gMLP  (original set: 8,4,2)
+# L1_depth: 2  # depth of transformer in temporal dim  
+# start_epoch: 0
+# epochs: 100
+FRR: 16      # number of slices we sampled from CT
+FREQ: 2      # The interval between frames/slices
+MultiFREQ: "1,3"  # override the setting of FREQ for variant FREQ if not None
+dataset: "FaceForensics" # STL10
+# pretrain: False
+# pos_weight: 0.25
+centerCrop: 0 # [0~100] 0: off, >0 indicates how much percentage of slices will be kept for training
+# masked_reconstruction: True 
+
+# view_interval: 20
+#lr: 0.00001
+lr: 0.001
+
+# n_features: 4096
+# # loss options
+# optimizer: "Adam" # or LARS (experimental)
+# weight_decay: 1.0e-6 # "optimized using LARS [...] and weight decay of 10−6"
+# temperature: 0.5 # see appendix B.7.: Optimal temperature under different batch sizes
+
+# # reload options
+# #model_path: "checkpoint/ViTSingle-rm8-h16-LD2-frr16-cspdarknet53" # set to the directory containing `checkpoint_##.tar` 
+# model_path: "checkpoint/FF++/ViTSingle-rm2-h16-LD2-frr16-cspdarknet53-FF++"
+# epoch_num: 0 # set to checkpoint number
+# reload: False #True
+
+# pretrained_weight_path: 'weight_raw/celeb_val.pt'
+save_path: 'weight_c23/'
+
+# # logistic regression options
+# logistic_batch_size: 256
+# logistic_epochs: 1500
+log_name: "simclr-single-rm2-h16-LD2-frr16-cspdarknet53-FF++"
+test_aug: 0
+max_det: 10
+# useFeatMap: -1
+
+# data augmentation
+percent: 0.0 # type3 how many percent of noise in a frame
+# use_model_percent: 0.2
+
+
+# ========================================================
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/Meso4_copy_5/best.pkl'   
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/celebDF_JYUNYI_100%_Meso/best.pkl'     
+
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/first_conti_xception_c23_299/0_first_conti_xception_c23_299.pkl'    
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/celebDF_JYUNYI_10%_Xception/best.pkl'    
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/celebDF_JYUNYI_100%_Xception/5_celebDF_JYUNYI_100%_Xception.pkl'    
+
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/efficientnetb4_pretrain2/4_efficientnetb4_pretrain2.pkl'    
+# pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/celebDF_JYUNYI_10%_EfficientNetB4/best.pkl'  
+pretrained_weight_path: '/ssd6/Roy/XceptionNet-Deepfake-master/output/celebDF_JYUNYI_100%_EfficientNetB4/6_celebDF_JYUNYI_100%_EfficientNetB4.pkl'  
+
+
+# 主要改這邊
+# For FaceForensics() function 
+batch_size: 16
+
+root_dir: "/hdd1/DeepFakes_may/celeb-df_crop_face"
+# root_dir: /hdd1/DeepFakes_may/FF++/c23_crop_face/
+
+train_file_path: "/hdd1/DeepFakes_may/celeb-df/train.txt"
+# train_file_path: /hdd1/DeepFakes_may/FF++/train.txt
+
+val_file_path: "/hdd1/DeepFakes_may/celeb-df/val.txt"
+# val_file_path: /hdd1/DeepFakes_may/FF++/val.txt
+
+test_file_path: "/hdd1/DeepFakes_may/celeb-df/test.txt"
+# test_file_path: /hdd1/DeepFakes_may/FF++/test.txt
+
+test_img_batch: 16
