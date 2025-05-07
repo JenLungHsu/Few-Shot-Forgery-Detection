@@ -1,6 +1,6 @@
 # Few-Shot-Forgery-Detection
 
-[![Semester](https://img.shields.io/badge/Semester-112--2-blue)]() [![Project](https://img.shields.io/badge/Project-Deep%20Learning%20Final%20Presentation-orange)]()
+[![Semester](https://img.shields.io/badge/Semester-Spring%202024-blue)]() [![Project](https://img.shields.io/badge/Project-Deep%20Learning%20Final%20Presentation-orange)]()
 
 🚀 check out the [slide](document/Slide.pdf) or [report](document/Report.pdf) for more detail.
 
