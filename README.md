@@ -2,7 +2,7 @@
 
 112-2 Deep Learning Final Presentation
 
-🚀check out the [slide](document/Slide.pdf) or [report](document/Report.pdf) for more detail.
+🚀 check out the [slide](document/Slide.pdf) or [report](document/Report.pdf) for more detail.
 
 ## Goal
 We aims to 
